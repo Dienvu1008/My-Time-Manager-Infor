@@ -10,7 +10,9 @@ This app is continuously being developed and refined. In the future, the app wil
 
 ## How to use?
 
-
+<p align="center">
+<img src="./res/en_badge_web_generic.png" height="100" alt="My Time Manager" />
+</p>
 
 ### 1. Create a list, edit and delete the list. Reorder all the list items
 ### 2. Add a new event or new task to the list
