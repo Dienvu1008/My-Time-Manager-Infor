@@ -1,10 +1,16 @@
 # My Time Manager
 
+<p align="center">
+<img src="./res/ic_launcher.png" height="100" alt="My Time Manager" />
+</p>
+
 A powerful application to manage your time. We are aiming to create the simplest yet most detailed app, where all you need to do is use it to manage your time for all your activities in life. You can use this app as a to-do list, calendar, habit tracker, pomodoro timer for focus mode, and you can review statistics that reflect your efforts at any given time. 
 
 This app is continuously being developed and refined. In the future, the app will be available on multiple platforms such as iOS, MacOS, Windows, Linux... and you will be able to sync data across all platforms.
 
 ## How to use?
+
+
 
 ### 1. Create a list, edit and delete the list. Reorder all the list items
 ### 2. Add a new event or new task to the list
