@@ -10,9 +10,12 @@ This app is continuously being developed and refined. In the future, the app wil
 
 ## How to use?
 
-<p align="center">
-<img src="./res/en_badge_web_generic.png" height="100" alt="My Time Manager" />
-</p>
+
+[<img src="./res/en_badge_web_generic.png"
+alt="Get it on Google Play" 
+height="80">](https://play.google.com/store/apps/details?id=com.dienvu.timemanager.pro)
+
+
 
 ### 1. Create a list, edit and delete the list. Reorder all the list items
 ### 2. Add a new event or new task to the list
