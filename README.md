@@ -11,7 +11,7 @@ This app is continuously being developed and refined. In the future, the app wil
 ## How to use?
 
 
-[<img src="./res/en_badge_web_generic.png"
+[<img src="./res/get_it_on_google_play.png"
 alt="Get it on Google Play" 
 height="80">](https://play.google.com/store/apps/details?id=com.dienvu.timemanager.pro)
 
@@ -27,8 +27,20 @@ height="80">](https://play.google.com/store/apps/details?id=com.dienvu.timemanag
 ### 3. Schedule an event or a task
 ### 4. Settings
 
-
+### Still To Do:
 This project is continuously being refined. Some interface elements and functions similar to those of Google Calendar, Samsung Calendar, Microsoft To Do, etc., will gradually be added and continuously improved in the future.
+
+* ~~Add measurable tasks and tasks with subtasks models.~~
+* ~~Add the function to switch between light and dark mode.~~
+* ~~Add the function to select colors for the theme.~~
+* ~~Add the function to switch the interface between Material Design 2 and 3.~~
+* ~~Add the function to select language.~~
+* Add file attachment feature for tasks and events.
+* Add account creation feature and sync data with Firebase.
+* Add offline data backup feature.
+* Add focus timer and concentration music feature. Create statistical graphs of focused time periods by day, week, month, year.
+* Add day, week, month, year views for the calendar. Add a function that allows adding new tasks and events or planning for pre-created tasks and events by clicking on the time slots in the calendar.
+* Create additional widgets to display on the home screen and lock screen.
 
 
 
