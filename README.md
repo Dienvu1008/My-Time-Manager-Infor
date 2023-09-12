@@ -52,3 +52,5 @@ Currently, the app does not contain ads and we really do not want to embed ads i
 [<img src="./res/paypal.jpg"
 alt="Get it on Google Play" 
 height="40">](https://www.paypal.me/dienvu1008)
+
+<img src="./res/techcombank.jpg" height="200" alt="My Time Manager" />
