@@ -10,24 +10,40 @@ We are aiming to create the simplest yet most detailed app to manage your time f
 
 This app is continuously being developed and refined. In the future, the app will be available on multiple platforms such as iOS, MacOS, Windows, Linux... and you will be able to sync data across all platforms.
 
+
+
+<div style="display: flex; justify-content: space-around;">
+<div>
+
+**Free Version**
+
+<img src="./res/get_it_on_google_play.png"
+alt="Get it on Google Play" 
+height="80">
+
+</div>
+<div>
+
+**Paid Version**
+
+<img src="./res/get_it_on_google_play.png"
+alt="Get it on Google Play" 
+height="80">
+
+</div>
+</div>
+
 ## MAIN FUNCTIONS
 
 * Tạo các danh sách nhiệm vụ và sự kiện. Các nhiệm vụ và sự kiện có thể được phân loại theo chủ đề mà người dùng mong muốn (work, study, work out, free time...)
 * 
+
+**See video**
+
+[![Watch the video](https://i.ytimg.com/vi/SO-OVcBwWQE/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBF2t8dR2R-seFsPHIdsmcPoYg-kA)](https://www.youtube.com/shorts/SO-OVcBwWQE)
+
 ## How to use?
 
-*Free Version
-
-[<img src="./res/get_it_on_google_play.png"
-alt="Get it on Google Play" 
-height="80">](https://play.google.com/store/apps/details?id=com.dienvu.mytimemanager.free)
-
-
-*Paid Version
-
-[<img src="./res/get_it_on_google_play.png"
-alt="Get it on Google Play" 
-height="80">](https://play.google.com/store/apps/details?id=com.dienvu.mytimemanager.pro)
 
 
 
@@ -40,9 +56,6 @@ height="80">](https://play.google.com/store/apps/details?id=com.dienvu.mytimeman
 #### 2.5 Reorder all the items in the list
 ### 3. Schedule an event or a task
 ### 4. Settings
-<img src="./res/dark_light_mode.gif" width="200" alt="My Time Manager" />
-
-Dark/Light mode switch
 
 
 <div style="text-align: center">
@@ -50,61 +63,40 @@ Dark/Light mode switch
         <tr>
             <td style="text-align: center">
                 <a href="https://bloclibrary.dev/#/fluttercountertutorial">
-                    <img src="https://bloclibrary.dev/assets/gifs/flutter_counter.gif" width="200"/>
+                    <img src="./res/overview.jpg" width="200"/>
                 </a>
             </td>            
             <td style="text-align: center">
                 <a href="https://bloclibrary.dev/#/flutterinfinitelisttutorial">
-                    <img src="https://bloclibrary.dev/assets/gifs/flutter_infinite_list.gif" width="200"/>
+                    <img src="./res/timeline.jpg" width="200"/>
                 </a>
             </td>
             <td style="text-align: center">
                 <a href="https://bloclibrary.dev/#/flutterfirebaselogintutorial">
-                    <img src="https://bloclibrary.dev/assets/gifs/flutter_firebase_login.gif" width="200" />
+                    <img src="./res/plan-tracking.jpg" width="200" />
                 </a>
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
                 <a href="https://bloclibrary.dev/#/flutterangulargithubsearch">
-                    <img src="https://bloclibrary.dev/assets/gifs/flutter_github_search.gif" width="200"/>
+                    <img src="./res/task.jpg" width="200"/>
                 </a>
             </td>
             <td style="text-align: center">
                 <a href="https://bloclibrary.dev/#/flutterweathertutorial">
-                    <img src="https://bloclibrary.dev/assets/gifs/flutter_weather.gif" width="200"/>
+                    <img src="./res/measurabletask.jpg" width="200"/>
                 </a>
             </td>
             <td style="text-align: center">
                 <a href="https://bloclibrary.dev/#/fluttertodostutorial">
-                    <img src="https://bloclibrary.dev/assets/gifs/flutter_todos.gif" width="200"/>
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td style="text-align: center">
-                <a> <p>Đây là văn bản của bạn </p> 
-                </a>
-            </td>
-            <td style="text-align: center">
-                <a href="https://bloclibrary.dev/#/flutterweathertutorial">
-                    <img src="https://bloclibrary.dev/assets/gifs/flutter_weather.gif" width="200"/>
-                </a>
-            </td>
-            <td style="text-align: center">
-                <a href="https://bloclibrary.dev/#/fluttertodostutorial">
-                    <img src="https://bloclibrary.dev/assets/gifs/flutter_todos.gif" width="200"/>
+                    <img src="./res/taskwithsubtasks.jpg"  width="200"/>
                 </a>
             </td>
         </tr>
     </table>
 </div>
 
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=Xw1Hwws9VGg&ab_channel=TacazTV" type="video/mp4">
-</video>
-
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 
 ### Still To Do:
