@@ -33,30 +33,7 @@ height="80">
 </div>
 </div>
 
-## MAIN FUNCTIONS
-
-* Tạo các danh sách nhiệm vụ và sự kiện. Các nhiệm vụ và sự kiện có thể được phân loại theo chủ đề mà người dùng mong muốn (work, study, work out, free time...)
-* 
-
-**See video**
-
-[![Watch the video](https://i.ytimg.com/vi/SO-OVcBwWQE/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBF2t8dR2R-seFsPHIdsmcPoYg-kA)](https://www.youtube.com/shorts/SO-OVcBwWQE)
-
-## How to use?
-
-
-
-
-### 1. Create a list, edit and delete the list. Reorder all the list items
-### 2. Add a new event or new task to the list
-#### 2.1 Add a new event
-#### 2.2 Add a new task
-#### 2.3 Add a new measurable task
-#### 2.4 Add a new task with sub tasks
-#### 2.5 Reorder all the items in the list
-### 3. Schedule an event or a task
-### 4. Settings
-
+**Application view**
 
 <div style="text-align: center">
     <table>
@@ -96,6 +73,35 @@ height="80">
         </tr>
     </table>
 </div>
+
+**See video**
+
+[![Watch the video](https://i.ytimg.com/vi/SO-OVcBwWQE/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBF2t8dR2R-seFsPHIdsmcPoYg-kA)](https://www.youtube.com/shorts/SO-OVcBwWQE)
+
+
+
+## MAIN FUNCTIONS
+
+* Tạo các danh sách nhiệm vụ và sự kiện. Các nhiệm vụ và sự kiện có thể được phân loại theo chủ đề mà người dùng mong muốn (work, study, work out, free time...)
+* 
+
+
+
+## How to use?
+
+
+
+
+### 1. Create a list, edit and delete the list. Reorder all the list items
+### 2. Add a new event or new task to the list
+#### 2.1 Add a new event
+#### 2.2 Add a new task
+#### 2.3 Add a new measurable task
+#### 2.4 Add a new task with sub tasks
+#### 2.5 Reorder all the items in the list
+### 3. Schedule an event or a task
+### 4. Settings
+
 
 
 
