@@ -4,16 +4,30 @@
 <img src="./res/ic_launcher.png" height="100" alt="My Time Manager" />
 </p>
 
-A powerful application to manage your time. We are aiming to create the simplest yet most detailed app, where all you need to do is use it to manage your time for all your activities in life. You can use this app as a to-do list, calendar, habit tracker, pomodoro timer for focus mode, and you can review statistics that reflect your efforts at any given time. 
+We are aiming to create the simplest yet most detailed app to manage your time for all your activities in life. You can use this app as a to-do list, calendar, habit tracker, pomodoro timer for focus mode, and you can review statistics that reflect your efforts at any given time. 
+
+Ứng dụng được thiết kế theo hướng trực quan, dễ dàng sử dụng...
 
 This app is continuously being developed and refined. In the future, the app will be available on multiple platforms such as iOS, MacOS, Windows, Linux... and you will be able to sync data across all platforms.
 
+## MAIN FUNCTIONS
+
+* Tạo các danh sách nhiệm vụ và sự kiện. Các nhiệm vụ và sự kiện có thể được phân loại theo chủ đề mà người dùng mong muốn (work, study, work out, free time...)
+* 
 ## How to use?
 
+*Free Version
 
 [<img src="./res/get_it_on_google_play.png"
 alt="Get it on Google Play" 
-height="80">](https://play.google.com/store/apps/details?id=com.dienvu.timemanager.pro)
+height="80">](https://play.google.com/store/apps/details?id=com.dienvu.mytimemanager.free)
+
+
+*Paid Version
+
+[<img src="./res/get_it_on_google_play.png"
+alt="Get it on Google Play" 
+height="80">](https://play.google.com/store/apps/details?id=com.dienvu.mytimemanager.pro)
 
 
 
@@ -67,8 +81,30 @@ Dark/Light mode switch
                 </a>
             </td>
         </tr>
+        <tr>
+            <td style="text-align: center">
+                <a> <p>Đây là văn bản của bạn </p> 
+                </a>
+            </td>
+            <td style="text-align: center">
+                <a href="https://bloclibrary.dev/#/flutterweathertutorial">
+                    <img src="https://bloclibrary.dev/assets/gifs/flutter_weather.gif" width="200"/>
+                </a>
+            </td>
+            <td style="text-align: center">
+                <a href="https://bloclibrary.dev/#/fluttertodostutorial">
+                    <img src="https://bloclibrary.dev/assets/gifs/flutter_todos.gif" width="200"/>
+                </a>
+            </td>
+        </tr>
     </table>
 </div>
+
+<video width="320" height="240" controls>
+  <source src="https://www.youtube.com/watch?v=Xw1Hwws9VGg&ab_channel=TacazTV" type="video/mp4">
+</video>
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 
 ### Still To Do:
@@ -90,13 +126,3 @@ This project is continuously being refined. Some interface elements and function
 
 
 
-### Support us
-If you really like this app, please rate it on the stores and share it with your friends. 
-
-Currently, the app does not contain ads and we really do not want to embed ads in this app. However, we still need finances to maintain and continue developing the app. We would be very grateful if you could support the app development team... for example, by buying us a cup of coffee...
-
-[<img src="./res/paypal.jpg"
-alt="Get it on Google Play" 
-height="40">](https://www.paypal.me/dienvu1008)
-
-<img src="./res/techcombank.jpg" height="200" alt="My Time Manager" />
