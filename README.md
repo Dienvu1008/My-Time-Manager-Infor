@@ -62,34 +62,34 @@ height="80">
     <table>
         <tr>
             <td style="text-align: center">
-                <a href="https://bloclibrary.dev/#/fluttercountertutorial">
+                <a href="./res/overview.jpg">
                     <img src="./res/overview.jpg" width="200"/>
                 </a>
             </td>            
             <td style="text-align: center">
-                <a href="https://bloclibrary.dev/#/flutterinfinitelisttutorial">
+                <a href="./res/timeline.jpg">
                     <img src="./res/timeline.jpg" width="200"/>
                 </a>
             </td>
             <td style="text-align: center">
-                <a href="https://bloclibrary.dev/#/flutterfirebaselogintutorial">
+                <a href="./res/plan-tracking.jpg">
                     <img src="./res/plan-tracking.jpg" width="200" />
                 </a>
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
-                <a href="https://bloclibrary.dev/#/flutterangulargithubsearch">
+                <a href="./res/task.jpg">
                     <img src="./res/task.jpg" width="200"/>
                 </a>
             </td>
             <td style="text-align: center">
-                <a href="https://bloclibrary.dev/#/flutterweathertutorial">
+                <a href="./res/measurabletask.jpg">
                     <img src="./res/measurabletask.jpg" width="200"/>
                 </a>
             </td>
             <td style="text-align: center">
-                <a href="https://bloclibrary.dev/#/fluttertodostutorial">
+                <a href="./res/taskwithsubtasks.jpg">
                     <img src="./res/taskwithsubtasks.jpg"  width="200"/>
                 </a>
             </td>
