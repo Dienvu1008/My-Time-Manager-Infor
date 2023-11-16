@@ -31,45 +31,82 @@ height="80">
 
 **THE DIFFERENCE COMPARED TO THOUSANDS OF OTHER TIME MANAGEMENT APPLICATIONS?**
 
-Ứng dụng này có thể giúp bạn lập, theo dõi, chỉnh sửa mọi chi tiết trong các kế hoạch dài hạn hoặc các hoạt động thường ngày của bạn theo một cách linh hoạt và tự nhiên.
+This application can help you create, track, and edit every detail in your long-term plans or daily activities in a flexible and natural way.
 
-Ví dụ, trong việc học tập của bạn, bạn cần đọc một cuốn sách trong một khoảng thời gian.
+For example, in your studies, you need to read a book within a certain period of time.
 
-Ngày thứ nhất:
+Day 1:
 
-Thời gian: 9-11h. Đọc chương 1,2. Địa điểm: thư viện trường. Ghi chú: nhớ mang theo thẻ sinh viên để mượn sách tại thư viện
+Time: 9-11am. Read chapters 1,2. Location: school library. Note: remember to bring your student card to borrow books at the library
 
-Thời gian: 15-17h. Đọc chương 3. Địa điểm: Quán cafe gần nhà.
+Time: 3-5pm. Read chapter 3. Location: Cafeteria.
 
-Thời gian: 20-21h. Đọc tiếp chương 3. Địa điểm: Tại nhà.
+Time: 8-9pm. Continue reading chapter 3. Location: At home.
 
-Ngày thứ 2:
+Day 2:
 
-Thời gian: 8-10h. Đọc chương 4. Địa điểm: Tại nhà.
+Time: 8-10am. Read chapter 4. Location: At home.
 
-Ngày thứ 3:...
+Day 3:…
 
-Bạn có thể lập một danh sách với tên gọi 'Research and Study' và thêm vào một nhiệm vụ 'Read a book' với các chi tiết như ở trên. Khi bạn muốn theo dõi hoặc thay đổi lại kế hoạch cho nhiệm vụ 'Read a book', bạn chỉ cần nhấn vào item của nhiệm vụ 'Read a book' và xem lại mọi chi tiết của nhiệm vụ này. Bạn cũng có thể xem lại các khung thời gian của nhiệm vụ này trên các màn hình lịch ngày, lịch tuần hoặc lịch tháng.
+You can create a list named 'Research and Study' and add a task 'Read a book' with details as above. When you want to track or change the plan for the task 'Read a book', you just need to click on the item of the task 'Read a book' and review all the details of this task. You can also review the time frames of this task on the daily, weekly, or monthly calendar screens.
 
-Một ví dụ khác cho việc theo dõi các hoạt động thường ngày của bạn. Bạn muốn lên kế hoạch cho bài tập Squat như bên dưới:
+Another example for tracking your daily activities. You want to plan for the Squat exercise as below:
 
-Monday: 
+Monday:
 
-Thời gian: 18h- 19h. Mục tiêu: ít nhất 100 lần. Địa điểm: phòng tập gym. Ghi chú: đừng quên mang theo chai nước!
+Time: 6-7pm. Goal: at least 100 times. Location: gym room. Note: don’t forget to bring a water bottle!
 
-Wednesday: 
+Wednesday:
 
-Thời gian: 12-13h. Mục tiêu: ít nhất 50 lần. Địa điểm: tại nhà.
+Time: 12-1pm. Goal: at least 50 times. Location: at home.
 
-Friday: 
+Friday:
 
-Thời gian: 18h- unknow endtime. Mục tiêu: ít nhất 100 lần. Địa điểm: tại nhà.
+Time: 6pm- unknown end time. Goal: at least 100 times. Location: at home.
 
-Sunday: ...
+Sunday: …
 
-Bạn có thể lập một danh sách mang tên 'Workout' và thêm vào một nhiệm vụ định lượng với tiêu đề 'Squat' và thêm vào mọi chi tiết ở kế hoạch bên trên.
+You can create a list named ‘Workout’ and add a quantitative task with the title ‘Squat’ and add all the details in the plan above. Your plans will be displayed as below:
 
-
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                <a href="./res/example-read-a-book.jpg">
+                    <img src="./res/example-read-a-book.jpg" width="200"/>
+                </a>
+            </td>            
+            <td style="text-align: center">
+                <a href="./res/example-squat.jpg">
+                    <img src="./res/example-squat.jpg" width="200"/>
+                </a>
+            </td>
+            <td style="text-align: center">
+                <a href="./res/example-timeline-show.jpg">
+                    <img src="./res/example-timeline-show.jpg" width="200" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <a href="./res/example-daily-view.jpg">
+                    <img src="./res/example-daily-view.jpg" width="200"/>
+                </a>
+            </td>
+            <td style="text-align: center">
+                <a href="./res/example-weekly-view.jpg">
+                    <img src="./res/example-weekly-view.jpg" width="200"/>
+                </a>
+            </td>
+            <td style="text-align: center">
+                <a href="./res/example-monthly-view.jpg">
+                    <img src="./res/example-monthly-view.jpg"  width="200"/>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
 
 
 
