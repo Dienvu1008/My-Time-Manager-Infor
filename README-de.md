@@ -13,18 +13,18 @@ Diese App wird kontinuierlich entwickelt und verfeinert. In der Zukunft wird die
 
 **Free Version**
 
-<img src="./res/get_it_on_google_play.png"
+[<img src="./res/get_it_on_google_play.png"
 alt="Get it on Google Play" 
-height="80">
+height="80">](https://play.google.com/store/apps/details?id=com.dienvu.mytimemanager.free)
 
 </div>
 <div>
 
 **Paid Version**
 
-<img src="./res/get_it_on_google_play.png"
+[<img src="./res/get_it_on_google_play.png"
 alt="Get it on Google Play" 
-height="80">
+height="80">](https://play.google.com/store/apps/details?id=com.dienvu.mytimemanager.pro)
 
 </div>
 </div>

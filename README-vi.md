@@ -13,18 +13,18 @@ Chúng tôi đang hướng đến việc tạo ra ứng dụng đơn giản nh�
 
 **Free Version**
 
-<img src="./res/get_it_on_google_play.png"
+[<img src="./res/get_it_on_google_play.png"
 alt="Get it on Google Play" 
-height="80">
+height="80">](https://play.google.com/store/apps/details?id=com.dienvu.mytimemanager.free)
 
 </div>
 <div>
 
 **Paid Version**
 
-<img src="./res/get_it_on_google_play.png"
+[<img src="./res/get_it_on_google_play.png"
 alt="Get it on Google Play" 
-height="80">
+height="80">](https://play.google.com/store/apps/details?id=com.dienvu.mytimemanager.pro)
 
 </div>
 </div>
